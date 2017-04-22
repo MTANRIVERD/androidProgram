@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tugla.bmp",
+        "source": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/src/main/res/drawable-mdpi/tugla.bmp"
+    },
+    {
+        "merged": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tahta.bmp",
+        "source": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/src/main/res/drawable-mdpi/tahta.bmp"
+    },
+    {
+        "merged": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

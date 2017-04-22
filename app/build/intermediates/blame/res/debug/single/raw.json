@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/res/merged/debug/raw/tahtaya_carpma_sesi.wav",
+        "source": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/src/main/res/raw/tahtaya_carpma_sesi.wav"
+    },
+    {
+        "merged": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/res/merged/debug/raw/tuglaya_carpma_sesi.wav",
+        "source": "/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/src/main/res/raw/tuglaya_carpma_sesi.wav"
+    }
+]

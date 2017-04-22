@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c03e4a95236116a83d2eda8d3e06b525a043b951">
+        <dex dex="/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_23c5be913bc15fc092356c322024ba376ade02d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="468b455c9668c50816ff1ed31b35d3de787a0348">
+        <dex dex="/home/tanrverdi/Masaüstü/android prog/TuglaOyunu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_79345988a24cb67d67c2b7c2ff2a8e6511ac692f/classes.dex" />
+    </item>
+
+</items>
